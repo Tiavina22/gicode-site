@@ -77,11 +77,11 @@ export const InstallationSection = () => {
               </p>
             </div>
             <div className="bg-gradient-subtle rounded-xl p-8 border-2 border-dashed border-border">
-              <div className="text-center text-muted-foreground">
+                <div className="text-center text-muted-foreground">
                 <Download className="w-16 h-16 mx-auto mb-4 opacity-50" />
                 <p className="text-lg">Capture d'écran de l'installation VS Code</p>
-                <img src="/public/images/capture.png" alt="" />
-              </div>
+                <img src="/images/capture.png" alt="Capture d'écran de l'installation VS Code" className="mx-auto rounded-lg shadow" />
+                </div>
             </div>
           </div>
         </div>
