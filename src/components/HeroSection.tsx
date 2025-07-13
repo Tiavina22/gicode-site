@@ -57,7 +57,7 @@ export const HeroSection = () => {
           {/* Stats */}
           <div className="mt-16 flex justify-center items-center gap-8 text-white/70 animate-fade-in" style={{animationDelay: '0.8s'}}>
             <div className="text-center">
-              <div className="text-2xl font-bold text-white">54</div>
+              <div className="text-2xl font-bold text-white">60</div>
               <div className="text-sm">Installations</div>
             </div>
             <div className="w-px h-8 bg-white/30"></div>
