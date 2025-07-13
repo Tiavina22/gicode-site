@@ -80,7 +80,7 @@ export const InstallationSection = () => {
               <div className="text-center text-muted-foreground">
                 <Download className="w-16 h-16 mx-auto mb-4 opacity-50" />
                 <p className="text-lg">Capture d'écran de l'installation VS Code</p>
-                <p className="text-sm mt-2">Interface Extensions → Recherche "Gicode" → Install</p>
+                <img src="/public/images/capture.png" alt="" />
               </div>
             </div>
           </div>
