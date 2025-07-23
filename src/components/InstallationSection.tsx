@@ -82,7 +82,6 @@ export const InstallationSection = () => {
             </div>
           </div>
         </div>
-      </div>
     </section>
   );
 }
