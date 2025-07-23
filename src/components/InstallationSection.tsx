@@ -85,4 +85,4 @@ export const InstallationSection = () => {
       </div>
     </section>
   );
-};
+}
