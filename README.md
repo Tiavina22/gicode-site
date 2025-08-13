@@ -54,4 +54,4 @@ src/
 MIT
 
 ---
-Extension créée par Tiavina Ramilison. Pour toute question, ouvrez une issue ou contactez-nous.
+Extension créée par Tiavina Ramilison. Pour toute question, ouvrez une issue ou contactez-nous!
